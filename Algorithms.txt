@@ -1,0 +1,16 @@
+COMPULSORY TASK 2
+1.
+Start…
+Declare variable firstName
+Request user to input their first name
+Print out “Hello” and firstName
+End.
+2.
+Start…
+Declare variable age
+Request user to input their age
+Declare variable currentYear
+Declare variable birthYear 
+Subtract age from currentYear to equal birthYear
+Print age, birthYear and a string
+End.

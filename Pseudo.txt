@@ -1,0 +1,46 @@
+COMPULSORY TASK 1
+1.
+Start…
+Declare variable “random letters”
+Request input from user "Enter a random letter”
+Repeat request until user enters a number
+Declare variable vowel and store a. e. i. 0, U count the number of vowels found in random letters. 
+Print the number of vowels in random letters 
+End.
+
+2.
+Start…
+Declare variable “random numbers”. 
+Request input from user list 10 random numbers 
+Declare variable Odd Number 
+Declare variable Even Number 
+Divide each random number by 2, if the remainder is equal to 0, it is even, if it is not o, it is odd. 
+Declare variable odd average 
+Declare variable even average 
+Even average=Add all the even numbers and divide by 10 
+Odd average=Add all the odd numbers and divide by 10 
+Print odd average and even average 
+End.
+
+3. 
+Start…
+Declare variable "Safa's Friends" 
+Request input from user to enter 8 names
+* Friend 1:
+* Friend 2 :
+* Friend 3 :
+* Friend 4 :
+* Friend 5 :
+* Friend 6 :
+* Friend 7 :
+* Friend 8 :
+Organise friend 1- 8 in alphabetical order 
+Print Safa's Friends
+End.
+
+
+
+
+
+
+

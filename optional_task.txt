@@ -1,0 +1,7 @@
+BONUS TASK 
+Start…
+Declare variable “n”
+Request user to input a number
+Check if “n” is a prime number or not
+Print true or false if “n” is a prime number
+End.
